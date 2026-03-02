@@ -4,13 +4,12 @@ A lightweight Kanban board built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[View Live Demo](#)
+[View Live Demo](https://vivekcode12345.github.io/kanban-task-board/)
 
 ## Screenshot
 
-![Kanban Board](screenshot/kanban-board.png)
-
-Replace the image path above with your actual screenshot filename if needed.
+![Kanban Home](screenshot/Home.png)
+![Kanban Look](screenshot/Look.png)
 
 ## Features
 
